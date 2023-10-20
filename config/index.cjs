@@ -9,13 +9,13 @@ const USER_CONFIG = {
 
   USER_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx2a89dd2ca1dddb52',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '04b4fb0a691c1df84245240395a67409',
 
-  PROVINCE: '广东',
-  CITY: '惠州',
+  PROVINCE: '安徽',
+  CITY: '合肥',
 
   USERS: [
     {
