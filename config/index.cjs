@@ -7,6 +7,7 @@
  */
 const USER_CONFIG = {
 
+  USER_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
   APP_ID: '',
 
